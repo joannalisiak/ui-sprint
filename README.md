@@ -1,8 +1,6 @@
 # UI Sprint
 ## :book: About
-**The project is a collection of UI web components.**
-
-Components: avatars, buttons, dropdown, card, badge, banner, tabs, list.
+Collection of UI web components. The collection includes: avatars, buttons, dropdown, card, badge, banner, tabs, list.
 ## :monocle_face: Preview
 ![ui sprint preview](https://user-images.githubusercontent.com/62613184/116428312-14cb2700-a845-11eb-8d5e-4344c152e8e3.png)
 ## :hammer_and_wrench: Setup
